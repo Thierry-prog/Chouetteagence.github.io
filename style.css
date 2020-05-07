@@ -836,6 +836,18 @@ h4 {
 {
     font-size: 14px;
 }
+.grisContraste, a 
+{
+    color: #222222!important;
+}
+.cadreContraste
+{
+    background-color: rgba(54, 69, 119, 0.6);
+}
+.partenaire, a
+{
+    text-decoration: underline;
+}
 
 @media (max-width: 1024px) {
     .bloc {
